@@ -1,2 +1,2 @@
 # Coding Practice
-PRoblems from Hacker Rank and Google Code Jam
+Problems from Hacker Rank and Google Code Jam
