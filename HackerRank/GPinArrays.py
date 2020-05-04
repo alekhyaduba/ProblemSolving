@@ -1,5 +1,5 @@
 #!/bin/python3
-
+from collections import Counter
 import math
 import os
 import random
@@ -9,26 +9,18 @@ import sys
 
 # Complete the countTriplets function below.
 def countTriplets(arr, r):
-    numbers = {}
-    temp = []
-    count = 0
-    for i in range(0,len(arr)):
-        if arr[i] in numbers:
-            numbers[arr[i]].extend([i])
-        else:
-            numbers[arr[i]]=[i]
+    double=Counter()
+    triple=Counter()
+    count=0
 
+    for x in arr:
+        if x in triple:
+            count+=triple[x]
+        if x in double:
+            triple[x*r]+=double[x]
 
-    for key, value in numbers.items():
-        a, b, c = key, key * r, key * r * r
-        if b in numbers and c in numbers:
-            if (a, b, c) not in temp:
-                for l in numbers[a]:
-                    for m in numbers[b]:
-                        for n in numbers[c]:
-                            if n>m>l:
-                                count+=1
-                temp.append((a, b, c))
+        double[x*r]+=1
+
     return count
 
 

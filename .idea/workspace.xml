@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a90ed374-3fb4-405d-93d1-da7a43646f12" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/GPinArrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/freq_queries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/frequency_queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/BubbleSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/MaximumToysBudget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Sorting:Comparator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/GPinArrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/GPinArrays.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,23 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="frequency_queries.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/frequency_queries.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#16#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="freq_queries.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HackerRank/freq_queries.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="431">
+              <caret line="45" column="61" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="61" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
               </folding>
@@ -40,14 +29,88 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GPinArrays.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HackerRank/GPinArrays.py">
+      <file leaf-file-name="example.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerRank/example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="31" selection-start-line="14" selection-start-column="4" selection-end-line="31" />
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sorting:Comparator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HackerRank/Sorting:Comparator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1213517961/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="789" column="8" selection-start-line="789" selection-start-column="8" selection-end-line="789" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CloudJumping.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerRank/CloudJumping.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayManipulation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerRank/ArrayManipulation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="64" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BubbleSort.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerRank/BubbleSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="18" selection-end-column="26" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumToysBudget.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerRank/MaximumToysBudget.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+              <folding>
+                <element signature="e#15#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/venv_rl/lib/python3.6/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4785">
+              <caret line="319" selection-start-line="319" selection-end-line="319" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/venv_rl/lib/python3.6/collections/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7980">
+              <caret line="533" selection-start-line="533" selection-end-line="533" />
             </state>
           </provider>
         </entry>
@@ -75,10 +138,14 @@
         <option value="$PROJECT_DIR$/HackerRank/frequency_queries.py" />
         <option value="$PROJECT_DIR$/HackerRank/freq_queries.py" />
         <option value="$PROJECT_DIR$/HackerRank/GPinArrays.py" />
+        <option value="$PROJECT_DIR$/HackerRank/BubbleSort.py" />
+        <option value="$PROJECT_DIR$/HackerRank/MaximumToysBudget.py" />
+        <option value="$PROJECT_DIR$/HackerRank/example.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Sorting:Comparator.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -131,8 +198,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GPinArrays">
-    <configuration name="FindingAnagramsInString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Sorting:Comparator">
+    <configuration name="BubbleSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRankPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +211,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/FindingAnagramsInString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/BubbleSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +235,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MaximumToysBudget" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRankPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,13 +247,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Substring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/MaximumToysBudget.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="freq_queries" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Sorting:Comparator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRankPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,13 +265,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/freq_queries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Sorting:Comparator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="frequency_queries" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRankPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,26 +283,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/frequency_queries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Substring" />
-      <item itemvalue="Python.FindingAnagramsInString" />
-      <item itemvalue="Python.freq_queries" />
-      <item itemvalue="Python.frequency_queries" />
       <item itemvalue="Python.GPinArrays" />
+      <item itemvalue="Python.example" />
+      <item itemvalue="Python.BubbleSort" />
+      <item itemvalue="Python.MaximumToysBudget" />
+      <item itemvalue="Python.Sorting:Comparator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sorting:Comparator" />
+        <item itemvalue="Python.example" />
+        <item itemvalue="Python.MaximumToysBudget" />
+        <item itemvalue="Python.BubbleSort" />
         <item itemvalue="Python.GPinArrays" />
-        <item itemvalue="Python.frequency_queries" />
-        <item itemvalue="Python.freq_queries" />
-        <item itemvalue="Python.FindingAnagramsInString" />
-        <item itemvalue="Python.Substring" />
       </list>
     </recent_temporary>
   </component>
@@ -254,17 +321,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1957606" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4713217" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3286119" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.25810474" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.25810474" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -308,11 +374,36 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/HackerRank/GPinArrays.py</url>
-          <line>31</line>
+          <line>23</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/GPinArrays.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/MaximumToysBudget.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/example.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/Sorting:Comparator.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/Sorting:Comparator.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="29" />
+      <option name="time" value="53" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -328,6 +419,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/freq_queries.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="45" column="61" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="61" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/ArrayManipulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="64" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/BubbleSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" column="38" lean-forward="true" selection-end-line="28" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/MaximumToysBudget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#15#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/GPinArrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="e#15#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv_rl/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4785">
+          <caret line="319" selection-start-line="319" selection-end-line="319" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv_rl/lib/python3.6/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7980">
+          <caret line="533" selection-start-line="533" selection-end-line="533" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv_rl/lib/python3.6/abc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/frequency_queries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/freq_queries.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
           <folding>
@@ -341,7 +520,7 @@
         <state relative-caret-position="375">
           <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
+            <element signature="e#15#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -371,7 +550,7 @@
         <state relative-caret-position="375">
           <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
+            <element signature="e#15#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -401,7 +580,7 @@
         <state relative-caret-position="375">
           <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
+            <element signature="e#15#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -486,23 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/venv_rl/lib/python3.6/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="331" selection-start-line="331" selection-end-line="331" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/ArrayManipulation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/FindingAnagramsInString.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -524,6 +686,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_breakpoints.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/GPinArrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="e#15#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/frequency_queries.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -534,23 +713,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/freq_queries.py">
+    <entry file="file://$USER_HOME$/venv_rl/lib/python3.6/abc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="2850">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv_rl/lib/python3.6/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7980">
+          <caret line="533" selection-start-line="533" selection-end-line="533" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/MaximumToysBudget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#15#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/ArrayManipulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="64" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/GPinArrays.py">
+    <entry file="file://$USER_HOME$/venv_rl/lib/python3.6/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="31" selection-start-line="14" selection-start-column="4" selection-end-line="31" />
+        <state relative-caret-position="4785">
+          <caret line="319" selection-start-line="319" selection-end-line="319" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/freq_queries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="45" column="61" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="61" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/CloudJumping.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/BubbleSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1213517961/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="789" column="8" selection-start-line="789" selection-start-column="8" selection-end-line="789" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Sorting:Comparator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
